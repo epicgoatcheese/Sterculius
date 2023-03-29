@@ -1,0 +1,13 @@
+name = "Sterculius"
+author = "epicgoatcheese and Peter Pop Off"
+version = "v0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "112876cfed18c039c0b0a3c309a582c5680fd05cd5d7283561989651fcd556ca"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

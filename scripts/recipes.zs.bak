@@ -1,0 +1,9 @@
+//This file was created via CT-GUI! Editing it is not advised!
+//Don't touch me!
+//#Remove
+recipes.remove(<biomesoplenty:terrestrial_artifact>);
+recipes.remove(<biomesoplenty:biome_finder>);
+recipes.remove(<biomesoplenty:biome_finder>);
+//Don't touch me!
+//#Add
+//File End
