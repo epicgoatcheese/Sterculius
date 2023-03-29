@@ -549,6 +549,11 @@ file = "mods/PixelmonGenerations-1.12.2-8.7.1.jar"
 hash = "07e315b8fb88c333e2091a3042669eca855d994e3c7d5a9c9e4439863d188556"
 
 [[files]]
+file = "mods/PixelmonGenerations-1.12.2-8.7.1.pw.toml"
+hash = "de1f34ffac87df845d79b14420b746dad13a28b104bb7835e0391a685e7bf273"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
 metafile = true
@@ -616,6 +621,11 @@ metafile = true
 [[files]]
 file = "mods/pixelextras-gens-3.3.2.jar"
 hash = "0c56917f66d6613d89e398624767506c490a2ea0740b5ba656919dd82e64d2cb"
+
+[[files]]
+file = "mods/pixelextras-gens-3.3.2.pw.toml"
+hash = "0657405f4afc7e67464153929d6d012bbd4c80daab81913decc37a77c9e639ff"
+metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
