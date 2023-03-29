@@ -1,0 +1,9 @@
+name = "PixelExtras"
+filename = "pixelextras-gens-3.3.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/epicgoatcheese/Sterculius/raw/main/mods/pixelextras-gens-3.3.2.jar"
+
+hash-format = "sha256"
+hash = "0c56917f66d6613d89e398624767506c490a2ea0740b5ba656919dd82e64d2cb"

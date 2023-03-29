@@ -1,0 +1,9 @@
+name = "PixelmonGenerations"
+filename = "PixelmonGenerations-1.12.2-8.7.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/epicgoatcheese/Sterculius/raw/main/mods/PixelmonGenerations-1.12.2-8.7.1.jar"
+
+hash-format = "sha256"
+hash = "07e315b8fb88c333e2091a3042669eca855d994e3c7d5a9c9e4439863d188556"
