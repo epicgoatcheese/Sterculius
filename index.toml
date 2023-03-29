@@ -545,12 +545,8 @@ file = "config/trashslot.cfg"
 hash = "b6ba8b4f68e6b8a287a90229b8510905b4753574a29d93492910dc394f6fcdbc"
 
 [[files]]
-file = "mods/PixelmonGenerations-1.12.2-8.7.1.jar"
-hash = "07e315b8fb88c333e2091a3042669eca855d994e3c7d5a9c9e4439863d188556"
-
-[[files]]
 file = "mods/PixelmonGenerations-1.12.2-8.7.1.pw.toml"
-hash = "de1f34ffac87df845d79b14420b746dad13a28b104bb7835e0391a685e7bf273"
+hash = "cf745ee6919f8c17891977a3abd78cd034354d4dc925ed330375335a55c2db2e"
 metafile = true
 
 [[files]]
@@ -619,12 +615,8 @@ hash = "900c33ef3ec1924d7557882e955063e30726a81f662e1443b7a3d3ff66a557d1"
 metafile = true
 
 [[files]]
-file = "mods/pixelextras-gens-3.3.2.jar"
-hash = "0c56917f66d6613d89e398624767506c490a2ea0740b5ba656919dd82e64d2cb"
-
-[[files]]
 file = "mods/pixelextras-gens-3.3.2.pw.toml"
-hash = "0657405f4afc7e67464153929d6d012bbd4c80daab81913decc37a77c9e639ff"
+hash = "d9d28e3438053fed13ff1fa3faa046d9641aca2e10cb663650c0225cd80158d1"
 metafile = true
 
 [[files]]
